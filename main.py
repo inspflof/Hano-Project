@@ -7,7 +7,7 @@ ttk.Label(frm, text="Hello World!").grid(column=0, row=0)
 ttk.Button(frm, text="Quit", command=root.destroy).grid(column=1, row=0)
 root.mainloop()
 
-class Tour():
+class Tour():vwd fsf
     def __init__(self,nb_tour,composition=None):
         self.nb_tour=nb_tour
         self.composition=composition
